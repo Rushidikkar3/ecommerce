@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node backend/server.js",
-    "dev": "nodemon backend/server.js",
+    "start": "node e-comerce-backend/backend/server.js",
+    "dev": "nodemon e-comerce-backend/backend/server.js",
     "data:import": "node backend/seederScript",
     "build": "echo jsom-e-com"
   },
